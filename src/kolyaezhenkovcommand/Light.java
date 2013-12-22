@@ -16,10 +16,10 @@ public class Light {
     }
     
     public void on() {
-        System.out.println(name + " Light on");
+        System.out.println(name + " Свет включен");
     }
     
     public void off() {
-        System.out.println(name + " Light off");
+        System.out.println(name + " Свет выключен");
     }
 }
