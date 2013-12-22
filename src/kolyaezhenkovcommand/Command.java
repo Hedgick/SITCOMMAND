@@ -9,6 +9,7 @@ package kolyaezhenkovcommand;
  * @author Kolus
  */
 public interface Command {
+    
     public void execute();
     public void undo();
 }
